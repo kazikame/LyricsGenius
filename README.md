@@ -1,5 +1,5 @@
 # LyricsGenius: a Python client for the Genius.com API
-Forked from ![johnwmillr](https://github.com/johnwmillr/LyricsGenius)!
+Forked from [johnwmillr](https://github.com/johnwmillr/LyricsGenius)!
 
 # Requirements
 1. Make your own Genius API account and create a client-token
